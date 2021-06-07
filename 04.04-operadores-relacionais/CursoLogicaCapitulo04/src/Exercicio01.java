@@ -25,7 +25,7 @@ public class Exercicio01 {
 		}
 		
 		if (operacao.equals(3)) {
-			resultado = primeiroNumero / segundoNumero;			
+			resultado = primeiroNumero * segundoNumero;			
 		}
 		
 		if (operacao.equals(4)) {
